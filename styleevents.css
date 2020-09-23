@@ -1,0 +1,16 @@
+header {
+    background-color: yellow;
+    color: white;
+}
+mark {
+    color: black;
+}
+article p {
+    color: blue;
+}
+a#index {
+    color: blue;
+}
+a#events {
+    color: purple;
+}

@@ -1,0 +1,20 @@
+body {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+header {
+    background-color: yellow;
+    color: white;
+    padding: 2px;
+    border: 2px solid black;
+    width: 40%;
+}
+article p {
+    color: blue;
+}
+a#index {
+    color: purple;
+}
+a#events {
+    color: blue;
+}
