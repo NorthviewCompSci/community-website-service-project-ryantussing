@@ -1,0 +1,12 @@
+a#index {
+    color: blue;
+}
+a#events {
+    color: purple;
+} 
+a#roster {
+    color: blue;
+}
+a:hover {
+    color: #fce205;
+} 
