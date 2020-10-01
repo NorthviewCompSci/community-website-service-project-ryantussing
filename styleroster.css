@@ -10,3 +10,11 @@ a#roster {
 a:hover {
     color: #fce205;
 }
+main {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: left;
+    border: 3px solid rgba(255, 255, 0, 0.5);
+    background-color: rgba(255, 255, 0 , 0.7);
+    padding: 10px;
+}

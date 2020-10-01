@@ -39,3 +39,9 @@ a {
 a:hover {
     color: #fce205;
 } 
+.pics {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+}
